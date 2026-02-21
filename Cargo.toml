@@ -1,0 +1,10 @@
+[package]
+name = "radio-broadcaster"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.4"
+rand = "0.8"
+dotenv = "0.15"
+tiny_http = "0.12"

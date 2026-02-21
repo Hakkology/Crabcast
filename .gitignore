@@ -1,0 +1,18 @@
+/target
+**/*.rs.bk
+Cargo.lock
+.env
+.DS_Store
+publish/
+publish.tar.gz
+
+# Internal Deployment (Private)
+deploy.sh
+deploy.bat
+docker-compose.yml.bk
+
+# Local Assets (Should be provided via env or volumes)
+Audio/
+music/
+Resources/logo.png
+Resources/icon.png

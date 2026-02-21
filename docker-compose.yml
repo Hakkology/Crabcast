@@ -1,0 +1,11 @@
+services:
+  radio-station:
+    build: .
+    container_name: radio-station-app
+    restart: always
+    env_file: .env
+    volumes:
+      - ./music:/music:ro
+      - ./Resources:/app/Resources:ro
+    ports:
+      - "3000:3000"
