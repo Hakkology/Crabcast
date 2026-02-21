@@ -1,9 +1,12 @@
-# CrabCast - A Rust RadioBroadcaster 📻
+# RadioBroadcaster 📻
 
 [![Rust](https://img.shields.io/badge/rust-stable-brightgreen.svg)](https://www.rust-lang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**Powered by Rust 🦀**
+
 A high-performance, lightweight audio broadcasting server built in Rust. Designed for real-time audio distribution with minimal latency and predictable resource usage.
+
 
 ## 🚀 Features
 
