@@ -1,4 +1,4 @@
-# RadioBroadcaster 📻
+# CrabCast - A Rust RadioBroadcaster 📻
 
 [![Rust](https://img.shields.io/badge/rust-stable-brightgreen.svg)](https://www.rust-lang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
